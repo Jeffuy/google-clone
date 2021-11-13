@@ -1,1 +1,1 @@
-## Clon simple de Google utilizando css y html
+## Clon simple de Google Desktop utilizando css y html
